@@ -9,3 +9,4 @@ const mobileMenu = new MobileMenu()
 const heroSlider = new HeroSlider()
 
 alert("Just a test")
+s
